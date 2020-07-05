@@ -1,3 +1,6 @@
-  {
-	    "FFmpeg-TGUI-Version": "1.0.1"    
-	}
+{
+  "FFmpegTGUI": {
+    "FFmpeg-TGUI-Version": "1.0.1",
+    "FFmpeg-TGUI-LastVersion-link": "https://github.com/kzorin52/FFmpegTGUI/releases/download/1.0.1/1-0-1-RELEASE-ALLCPU.zip"
+  }
+}
